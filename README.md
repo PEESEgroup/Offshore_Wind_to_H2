@@ -1,5 +1,7 @@
-# Offshore_Wind_to_H2
+# Offshore Wind to H<sub>2</sub>
 Data &amp; Code Repository for the EES Article - Sailing towards sustainability: offshore wind's green hydrogen potential for decarbonization in coastal USA.
+
+Authors: Rishi Kaashyap Balaji and Fengqi You
 
 DOI: [10.1039/D4EE01460J](https://doi.org/10.1039/D4EE01460J)
 
