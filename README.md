@@ -13,18 +13,19 @@ This repository was developed and tested on Windows 11, ensuring full compatibil
 ### Hardware Requirements
 The models do not require any non-standard hardware and can be run on a typical desktop computer. The code has been tested on a system with the following specifications:
 
-DELL OPTIPLEX 7040 Desktop 
-Intel(R) Core (TM) i7-6700 CPU @3.40 GHz
-32GB of RAM
+- DELL OPTIPLEX 7040 Desktop 
+- Intel(R) Core (TM) i7-6700 CPU @3.40 GHz
+- 32GB of RAM
 
-###Package Requirements
-python  3.9.13
-pandas  1.4.4
-numpy  1.23.5PIP 
-matplotlib  3.3.4
-pyomo  6.5.4
-Gurobi 10.0.1
-OpenLCA 11.0
+### Package Requirements
+- python  3.9.13
+- pandas  1.4.4
+- numpy  1.23.5 
+- matplotlib  3.3.4
+- pyomo  6.5.4
+- Gurobi 10.0.1
+- OpenLCA 11.0
+
 ## Citation
 ```
 @article{balaji2024sailing,
