@@ -27,6 +27,32 @@ The models do not require any non-standard hardware and can be run on a typical 
 - pyomo  6.5.4
 - Gurobi 10.0.1
 - OpenLCA 11.0
+  
+## Installation Guide
+The source code is not distributed as a package, therefore, no installation is required. It is highly recommended to use [Anaconda](https://www.anaconda.com/) to manage the Python environment to run the code. To get started, please follow these steps:
+
+1. **Clone the repository:** Clone the repository to a local directory using the following command:
+
+```sh
+git clone https://github.com/PEESEgroup/Offshore_Wind_to_H2.git
+```
+
+2. **Create a Conda environment:** Navigate to the cloned directory and create a Conda environment with the required packages as specified in the [Package Requirements](#package-requirements) section. 
+
+```sh
+conda create --name <environment_name>
+# Install the packages listed in Package Requirements
+```
+
+3. **Activate the Conda environment and run the code:** With the Conda environment activated, you can now run the code as needed following the instructions in the [Demo](#demo) section.
+
+```sh
+conda activate <environment_name>
+# Run the code
+```
+## Instructions for Use
+
+To reproduce the results in our paper, please refer to the jupyter notebooks provided. Prior to executing these files, obtain a Gurobi licensce (Free Academic academic licenses are provided by Gurobi) and add the solver exectuable to the system path. Further, unzip the file - CF_Data.zip that is provided and place the unzipped directory in the working directory. 
 
 ## Citation
 ```
