@@ -1,1 +1,1 @@
-Unzip the Fold CF_Data to the directory to run
+Unzip the Zip File - CF_Data to the directory prior to code execution
