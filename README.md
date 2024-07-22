@@ -44,7 +44,7 @@ conda create --name <environment_name>
 # Install the packages listed in Package Requirements
 ```
 
-3. **Activate the Conda environment and run the code:** With the Conda environment activated, you can now run the code as needed following the instructions in the [Demo](#demo) section.
+3. **Activate the Conda environment and run the code:** With the Conda environment activated, you can now run the code as needed.
 
 ```sh
 conda activate <environment_name>
