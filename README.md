@@ -62,5 +62,6 @@ To reproduce the results in our paper, please refer to the jupyter notebooks pro
   journal={Energy \& Environmental Science},
   year={2024},
   publisher={Royal Society of Chemistry}
+  doi = {https://doi.org/10.1039/D4EE01460J}
 }
 ```
